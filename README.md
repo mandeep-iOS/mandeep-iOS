@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mandeep--singh-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandeep-singh-50834219a)
 [![GitHub Org](https://img.shields.io/badge/GitHub-@gglabs--study-334155?style=flat-square&logo=github&logoColor=white)](https://github.com/gglabs-study)
 [![Credly](https://img.shields.io/badge/Credly-Badges-ea580c?style=flat-square)](https://www.credly.com/users/mandeep-singh_ios_engineer/badges/credly)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--9183--8817-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-9183-8817)
 
 Ontario, Canada · Open to **Senior iOS Engineer**, **Mobile Engineer**, and **iOS + AI Engineer** roles across Canada & Remote.
 
@@ -41,14 +42,14 @@ Ontario, Canada · Open to **Senior iOS Engineer**, **Mobile Engineer**, and **i
 
 ## Projects List
 
-* **Projects:** [Projects](https://www.linkedin.com/in/mandeep-singh-50834219a)
+* **Projects:** [Projects](https://www.linkedin.com/in/mandeep-singh-50834219a/details/projects)
 * **More Repositories & Labs:** [Golden Gate Learning Labs](https://gglabs.study) · [GitHub Org](https://github.com/gglabs-study)
 
 ---
 
 ## Certificates & Badges
 
-* **Certifications:** [Certifications](https://www.linkedin.com/in/mandeep-singh-50834219a)
+* **Certifications:** [Certifications](https://www.linkedin.com/in/mandeep-singh-50834219a/details/certifications)
 * **Credly Badges:** [Verified Badges](https://www.credly.com/users/mandeep-singh_ios_engineer/badges/credly)
 
 ---
