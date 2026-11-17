@@ -58,3 +58,4 @@ Ontario, Canada · Open to **Senior iOS Engineer**, **Mobile Engineer**, and **i
 
 * **Email:** [mdeep14293@gmail.com](mailto:mdeep14293@gmail.com) · [mandeep@gglabs.study](mailto:mandeep@gglabs.study)
 * **Website:** [mandeepsingh.dev](https://mandeep-ios.github.io/mandeepsingh.dev/) · [GG-Learning-Labs](https://gglabs.study)
+* **Research Profile (ORCID):** <a id="cy-effective-orcid-url" href="https://orcid.org/0009-0004-9183-8817" target="orcid.widget" rel="me noopener noreferrer"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16" alt="ORCID iD icon"/> https://orcid.org/0009-0004-9183-8817</a>
